@@ -48,8 +48,8 @@ footer p {
 /* MAIN CONTENT */
 main {
   width: 90%;
-  max-width: 700px;
-  margin: 10px;
+  max-width: 850px;
+  margin: 10px auto;
 }
 
 h1, h2 {
@@ -212,5 +212,6 @@ label {
     width: 95%;
   }
 }
+
 
 
