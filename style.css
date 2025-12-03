@@ -47,7 +47,7 @@ footer p {
 
 /* MAIN CONTENT */
 main {
-  width: 100%;
+  width: 90%;
   max-width: 850px;
   margin: 40px auto;
 }
@@ -212,3 +212,4 @@ label {
     width: 95%;
   }
 }
+
