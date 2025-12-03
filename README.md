@@ -1,11 +1,8 @@
-# Front-EndWeb
-# Bookshelf App Starter Project
+# Bookshelf-App 
 
-Ini adalah starter project untuk siswa yang sedang mengerjakan tugas akhir kelas Belajar Membuat Front-End Web untuk Pemula.
+Proyek ini merupakan tugas akhir kelas Belajar Membuat Front-End Web untuk Pemula
 
-## Ketentuan Pengerjaan Tugas
-
-Untuk mempermudah penilaian submission yang dikirim, Anda perlu memahami ketentuan-ketentuan berikut dalam mengerjakan tugas ini.
+## Ketentuan Proyek
 
 - Anda dilarang mengedit atau menghapus atribut `data-testid` pada elemen-elemen HTML.
 - Ini masih berkaitan dengan poin sebelumnya. Jika Anda memiliki kebutuhan seperti styling elemen dan perlu menambahkan atribut seperti class, itu tidak dilarang selama atribut `data-testid` beserta nilainya tidak diubah atau dihapus.
