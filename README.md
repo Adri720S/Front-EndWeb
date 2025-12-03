@@ -33,4 +33,4 @@ Proyek ini merupakan tugas akhir kelas Belajar Membuat Front-End Web untuk Pemul
 </div>
 ```
 
-Selamat mengerjakan dan sukses selalu!
+Hail proyek: https://front-end-web-one.vercel.app/ 
